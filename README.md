@@ -13,7 +13,13 @@ DFS starts from a given node and explores as deep as possible along a branch bef
 ### BFS Traversal
 BFS starts from a given node and explores all its neighbors at the current depth level before moving to the next level. The result is a list of nodes in the order they were visited.
 ### Example
-
+ ```mathematica
+    Printing 5 pages
+    Printing 3 pages
+    Printing 8 pages
+    Printing 6 pages
+    Total pages printed: 22
+   
     example graph:
     Nodes: 0, 1, 2, 3, 4, 5
     Edges:
@@ -32,4 +38,4 @@ BFS starts from a given node and explores all its neighbors at the current depth
     Starting from node 0
     the DFS traversal order is:
     DFS Traversal Order: 0 1 3 4 5 2
-    
+     ```
