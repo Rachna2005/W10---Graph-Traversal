@@ -22,14 +22,14 @@ BFS starts from a given node and explores all its neighbors at the current depth
     2 -> 5
     4 -> 5
     ```
-### BFS Traversal:
+ BFS Traversal:
  ```mathematica
     Starting from node 0
     the BFS traversal order is:
     BFS Traversal Order: 0 1 2 3 4 5
     ```
 
-### DFS Traversal:
+ DFS Traversal:
  ```mathematica
     Starting from node 0
     the DFS traversal order is:
