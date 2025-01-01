@@ -13,7 +13,7 @@ DFS starts from a given node and explores as deep as possible along a branch bef
 ### BFS Traversal
 BFS starts from a given node and explores all its neighbors at the current depth level before moving to the next level. The result is a list of nodes in the order they were visited.
 ### Example
-Here’s an example graph:
+example graph:
 Nodes: 0, 1, 2, 3, 4, 5
 Edges:
 0 -> 1, 2
